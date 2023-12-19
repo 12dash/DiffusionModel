@@ -15,6 +15,7 @@ There are two models :
 
 ## Results
 ### Simplified model 
+These with are with conditional modelling i.e. passing the label that gets embeded similar (almost quite identical to positional embeding)
 #### Cifar-10  
 <img src="result/cifar/samples.png" width=30% height=50% /> <img src="result/cifar/loss.png" width=30% height=50% /> 
 
